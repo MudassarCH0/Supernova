@@ -26,11 +26,6 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 * Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
   Supernova data scientist
 
-              |
-------------- | -------------
-Data Processing  | explore data, backup data, clean data, filter data, data visualization mockups
-Key Performance Indicators (KPIs)  | infraction count per municipalities and categories, data perentage per municipality, business types per year
-
 ***Results***<br>
 
 1. Most businesses showed high critical infraction count in 2023
