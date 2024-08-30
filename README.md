@@ -26,6 +26,11 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 * Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
   Supernova data scientist
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 ***Results***<br>
 
 1. Most businesses showed high critical infraction count in 2023
