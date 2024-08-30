@@ -7,6 +7,7 @@
 * Recommenation
 * Link
 
+
 ***Description***<br>
 
 Supernova is an insurance company in Toronto, Ontario. Supernova specializes in serving Small and Mid-Sized Enterprises (SMEs). Supernova use team of experts to recognize needs of businesses and provides tailored services to ensure comprehensive coverage and unparalleled support. Supernova specailizes in personal and business services, contractor packages, health service packages, retail packages, and wohlesaler packages. 
@@ -30,12 +31,16 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 
 ***Results***<br>
 
-1. Most businesses showed high critical infraction count in 2023
-2. After 2023 trend lines showed sharp decline indicating not enough data
+* Most businesses showed high critical infraction count in 2023
+* After 2023 trend lines showed sharp decline indicating not enough data
+* Wellington-Dufferin-Guelph for food category had less critical infractions than Simcoe. Both of these municipalities had high foot traffic among other municipalities
 
 
 ***Recomnendation***<br>
-
+* Supernova should pay close attention to businesses with high critical value count
+* Supernova should find more clients in municipalities with lower critical count like Wellington-Dufferin-Guelph for food category
+* Similarly Supernova should find clients in other municipalities for other categories
+  
 
 > [!NOTE]
 > [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/Externship/TableofContent)
