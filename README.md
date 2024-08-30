@@ -39,7 +39,8 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 ***Recomnendation***<br>
 * Supernova should pay close attention to businesses with high critical value count
 * Supernova should find more clients in municipalities with lower critical count like Wellington-Dufferin-Guelph for food category
-* Similarly Supernova should find clients in other municipalities for other categories<br>
+* Similarly Supernova should find clients in other municipalities for other categories
+\
   
 
 > [!NOTE]
