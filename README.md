@@ -1,25 +1,27 @@
-Table of Contents
+**Table of Contents**
+1. Project Description
+2. Project Execution Steps 
+3. Tools & Dataset
+4. Project
 
-Project Description
-Project Execution Steps
-Tools & Dataset
-Project
-Project Description
 
-Supernova is an insurance company in Toronto, Ontario. Supernova specializes in serving Small and Mid-Sized Enterprises (SMEs). Supernova use team of experts to recognize needs of businesses and provides tailored services to ensure comprehensive coverage and unparalleled support. Supernova specailizes in personal and business services, contractor packages, health service packages, retail packages, and wohlesaler packages.
+**Project Description**<br>
 
-Project
+Supernova is an insurance company in Toronto, Ontario. Supernova specializes in serving Small and Mid-Sized Enterprises (SMEs). Supernova use team of experts to recognize needs of businesses and provides tailored services to ensure comprehensive coverage and unparalleled support. Supernova specailizes in personal and business services, contractor packages, health service packages, retail packages, and wohlesaler packages. 
 
-Project Execution Steps
+Project involved studying publicly available health and safety data for data analysis and trend analysis to find businesses prone to increase claims and reduce profitability for Supernova. Data was scraped from different municipalities websites.  
 
-Data Processing: explore data, backup data, clean data, filter data, decomposition plan, data visualization mockups
-Key Performance Indicators (KPIs): Popular Restaurant per City, Food Preference, Overall Sales, Popular Items, Sales per Items, Popular Item Sales per City, Weekday Sales, Average Check per Restaurant, Satisfied Customers per Restaurant, Unsatisfied Customers per Restaurant, Customer Repeat Rate, Highest Sales per Restaurants
-Visualization: KPI card, Line Chart, Bar Chart, Bar Chart, Pie Chart, Table
-Project Report
-Tools & Dataset
 
-Tableau & Zomato Dataset
+**Project Execution Steps**
+1. Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
+2. Key Performance Indicators (KPIs): infraction count per municipalities and categories, data perentage per municipality, business types per year
+3. Visualization: Tables, Bar Chart, Line Chart 
+4. Project Report and Presentation
 
-Project
 
-Click Here
+**Tools & Dataset**<br>
+
+Tableau & Municipalities Dataset
+
+
+**Project**<br>
