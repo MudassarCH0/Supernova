@@ -19,14 +19,15 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 
 **Execution**<br>
 
-1. Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
-2. Key Performance Indicators (KPIs): infraction count per municipalities and categories, data perentage per municipality, business types per year
-3. Visualization: Tables, Bar Chart, Line Chart 
-4. Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
+- Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
+- Key Performance Indicators (KPIs): infraction count per municipalities and categories, data perentage per municipality, business types per year
+- Visualization: Tables, Bar Chart, Line Chart
+- Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
    Supernova data scientist   
 
 **Results**<br>
-
+1. Most businesses showed high critical infraction count in 2023
+2. After 2023 trend lines showed sharp decline indicating not enough data
 
 
 **Recomnendation**<br>
