@@ -19,10 +19,10 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 
 **Execution**<br>
 
-- Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
-- Key Performance Indicators (KPIs): infraction count per municipalities and categories, data perentage per municipality, business types per year
-- Visualization: Tables, Bar Chart, Line Chart
-- Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
+   - Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
+   - Key Performance Indicators (KPIs): infraction count per municipalities and categories, data perentage per municipality, business types per year
+   - Visualization: Tables, Bar Chart, Line Chart
+   - Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
    Supernova data scientist   
 
 **Results**<br>
