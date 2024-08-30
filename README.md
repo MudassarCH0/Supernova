@@ -38,5 +38,4 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 
 
 > [!NOTE]
-> Here is link to the project
-> https://public.tableau.com/app/profile/mudassar.chaudhry/viz/Externship/TableofContent
+> [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/Externship/TableofContent)
