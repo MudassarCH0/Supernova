@@ -7,7 +7,6 @@
 * Recommenation
 * Link
 
-`#RRGGBB`
 ***Description***<br>
 
 Supernova is an insurance company in Toronto, Ontario. Supernova specializes in serving Small and Mid-Sized Enterprises (SMEs). Supernova use team of experts to recognize needs of businesses and provides tailored services to ensure comprehensive coverage and unparalleled support. Supernova specailizes in personal and business services, contractor packages, health service packages, retail packages, and wohlesaler packages. 
@@ -38,6 +37,6 @@ Tableau & Municipalities Dataset (dataset not included because of confidentialit
 ***Recomnendation***<br>
 
 
-
+[!NOTE]
 ***Link***<br>
 Here is link to the project
