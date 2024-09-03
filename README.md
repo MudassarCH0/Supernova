@@ -1,10 +1,10 @@
-***Table of Contents***<br>
+***Table of Content***<br>
 
 * Description
-* Tools & Dataset
+* Tools & Data
 * Execution
-* Results
-* Recommenation
+* Result
+* Recommendation
 * Link  
 
 \
@@ -15,10 +15,11 @@ Supernova is an insurance company in Toronto, Ontario. Supernova specializes in 
 Project involved studying publicly available health and safety data for data analysis and trend analysis to find businesses prone to increase claims and reduce profitability for Supernova. Data was scraped from different municipalities websites.  
 
 \
-***Tools & Dataset***<br>
+***Tools & Data***<br>
 
-* Tools: Tableau
-* NYC Airbnb Data
+* Tools
+  * Tableau
+* Data
   | Fields        | Fields        |
   | ------------- | ------------- |
   | url_inspection_full | url_entity_full |
@@ -41,7 +42,7 @@ Project involved studying publicly available health and safety data for data ana
   Supernova data scientist
 
 \
-***Results***<br>
+***Result***<br>
 
 * Most businesses showed high critical infraction count in 2023
 * After 2023 trend lines showed sharp decline indicating not enough data
