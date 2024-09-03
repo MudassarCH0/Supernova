@@ -17,7 +17,19 @@ Project involved studying publicly available health and safety data for data ana
 \
 ***Tools & Dataset***<br>
 
-Tableau & Municipalities Dataset (dataset not included because of confidentiality and file size)
+* Tools: Tableau
+* NYC Airbnb Data
+  | Fields        | Fields        |
+  | ------------- | ------------- |
+  | url_inspection_full | url_entity_full |
+  | inspection_results |actions_taken |
+  | infraction_details | inspection_date |
+  | inspection_type | critical_infractions_count |
+  | non_critical_infractions_count | Facility_Name |
+  | Facility_Type | category |
+  | source | actions_taken_satisfactory |
+  | actions_taken_action_req | inspection_date_year_month |
+  | category_clean |
 
 \
 ***Execution***<br>
