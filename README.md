@@ -46,7 +46,10 @@ Project involved studying publicly available health and safety data for data ana
 
 * Most businesses showed high critical infraction count in 2023
 * After 2023 trend lines showed sharp decline indicating not enough data
-* Wellington-Dufferin-Guelph for food category had less critical infractions than Simcoe. Both of these municipalities had high foot traffic among other municipalities
+* Wellington-Dufferin-Guelph for food category had less critical infractions than Simcoe. Both of these municipalities had high foot traffic among other municipalities<br><br>
+
+![image](https://github.com/user-attachments/assets/da2bc497-120f-4a60-9145-4a2f099de4c1)
+
 
 \
 ***Recomnendation***<br>
